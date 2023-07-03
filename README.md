@@ -1,8 +1,8 @@
 # BridgeUP-STEM
 As a part of the BridgeUP-STEM Brown Scholars Program during the summer of 2018, I learned how to use Python to perform exploratory data analysis and discover insights about various datasets. 
 
-##Climate Change Final Project
+## Climate Change Final Project
 The salinity levels of oceans are a significant indicator of the effect of climate change on the natural environment. As temperatures rise, freshwater evaporates from the oceans, increasing the salinity of the water. Given a dataset from December 2011 of salinity values corresponding to each pixel location in a world map, I created a color map that illustrates the various salinity levels at different parts of the oceans in order to discover which parts of the oceans are affected most by increased salinity levels. I separated the colors based on numeric ranges of salinity levels, and also isolated only the oceans to give a clear representation of the levels. From the color map, the middle of the Atlantic ocean had the highest salinity levels in December 2011. To determine the cause, however, would require further research into rainfall amount, ice melting, temperatures etc. 
 
-##Genomics Final Project
+## Genomics Final Project
 Hydrophobicity and hydrophilicity are important characteristics of proteins because they determine how proteins fold and interact with water. For my final project, I examined the hydrophobicity and hydrophilicity of hemoglobin and produced a hydrophobicity plot. Based on the plot, we could discover the possible structure of the protein: higher hydrophobicity levels indicate that the amino acids would not be in contact with water and therefore, are likely to reside in the interior of the protein, and higher hydrophilicity levels indicate the opposite. 
